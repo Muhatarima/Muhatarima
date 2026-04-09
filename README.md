@@ -1,20 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhatarima&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%26%20AI%20Builder&descAlignY=58&descSize=20" width="100%"/>
-</div>
+
+# Muhatarima
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Developer;AI+Product+Builder;Always+Learning" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhatarima;Frontend+Developer;AI+Product+Builder;React+%26+Next.js+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="girl coding"/>
-</div>
-
-<br/>
 
 ---
 
@@ -29,6 +23,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -79,14 +74,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=Muhatarima&style=flat-square&color=blueviolet" alt="Profile Views" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhatarima&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
