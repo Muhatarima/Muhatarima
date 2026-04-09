@@ -7,6 +7,24 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="320" />
 
 </div>
+<br>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=26&pause=1000&color=C084FC&vCenter=true&repeat=false&width=220&lines=%F0%9F%93%9D+About+Me" alt="About Me" />
+</p>
+
+<table>
+  <tr>
+    <td>
+
+- 🔭 Building AI-powered educational tools  
+- ⚛️ Working with React.js, Next.js, HTML, CSS, Python, and AI  
+- 🎓 BSc in IPE @ BUTEX  
+- 📍 Based in Dhaka, Bangladesh  
+- 🌱 Currently deep in full-stack development, databases, and AI integration  
+
+    </td>
+  </tr>
+</table> <br>
 
 <br>
 
