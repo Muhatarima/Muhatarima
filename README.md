@@ -8,7 +8,7 @@
 
 </div>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=26&pause=1000&color=C084FC&vCenter=true&repeat=false&width=220&lines=%F0%9F%93%9D+About+Me" alt="About Me" />
 </p>
 
