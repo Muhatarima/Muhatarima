@@ -15,14 +15,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Muhatarima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Muhatarima&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhatarima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&size_weight=0.5&count_weight=0.5" width="40%" />
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Muhatarima&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 <br>
