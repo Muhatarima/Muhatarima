@@ -1,7 +1,6 @@
 <div align="center">
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Muhatarima+%F0%9F%92%9C;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi%2C+this+is+Muhatarima;Frontend+Developer" alt="Typing SVG" />
 </p>
 <br><br>
 
