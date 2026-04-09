@@ -8,6 +8,31 @@
 
 </div>
 
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+<h2>GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muhatarima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhatarima&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhatarima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhatarima&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+
+</div>
+
+<br>
+<hr>
+<br>
+
 <div align="center">
 
 <h2>Main Frameworks & Libraries</h2>
@@ -19,7 +44,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-<hr>
+<br>
 
 <h2>Languages</h2>
 
@@ -29,7 +54,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<hr>
+<br>
 
 <h2>Skills</h2>
 
@@ -40,7 +65,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-<hr>
+<br>
 
 <h2>Version Control & Tools</h2>
 
@@ -54,6 +79,8 @@
 </div>
 
 <br>
+<hr>
+<br>
 
 <div align="center">
 
@@ -66,26 +93,14 @@
 </p>
 
 </div>
----
+
+<br>
+<hr>
+<br>
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muhatarima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhatarima&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhatarima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhatarima&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Connect With Me
+<h3>Connect With Me</h3>
 
 <a href="https://www.linkedin.com/in/muhatarima-medha/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -100,7 +115,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Muhatarima&style=flat-square&color=blueviolet" alt="Profile Views" />
 
