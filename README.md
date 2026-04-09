@@ -18,11 +18,11 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhatarima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhatarima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&size_weight=0.5&count_weight=0.5" width="40%" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhatarima&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Muhatarima&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 <br>
