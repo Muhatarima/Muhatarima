@@ -1,15 +1,14 @@
 <div align="center">
 
-# Muhatarima
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Muhatarima" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=Hi...;This+is+Muhatarima+%F0%9F%92%9C" alt="Typing SVG" />
-<br/>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="380"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="320"/>
 
 </div>
 
----
+<div align="center">---
 ## Main Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -45,7 +44,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+</p></div>
 
 <div align="center">
 
