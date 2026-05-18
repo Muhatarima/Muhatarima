@@ -1,3 +1,22 @@
+not fronted anymore its full stack developer now andchange my skills part frontend skills react nextjs  ## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB 
+
+
+
+
+
+
 <div align="center">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi%2C+this+is+Muhatarima;Frontend+Developer" alt="Typing SVG" />
@@ -114,3 +133,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=Muhatarima&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
+
+
+
+
+edit profile readme
