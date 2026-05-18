@@ -1,25 +1,6 @@
-not fronted anymore its full stack developer now andchange my skills part frontend skills react nextjs  ## 🛠 Tech Stack
-
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB 
-
-
-
-
-
-
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi%2C+this+is+Muhatarima;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi%2C+this+is+Muhatarima;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 <br><br>
 
@@ -62,6 +43,9 @@ not fronted anymore its full stack developer now andchange my skills part fronte
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   </p>
@@ -84,6 +68,11 @@ not fronted anymore its full stack developer now andchange my skills part fronte
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   </p>
 
@@ -105,9 +94,9 @@ not fronted anymore its full stack developer now andchange my skills part fronte
   <h3>Currently Learning</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Full%20Stack-6DB33F?style=for-the-badge&logo=stackshare&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI%20Integration-A855F7?style=for-the-badge&logo=openai&logoColor=white" />
   </p>
 </div>
 
@@ -133,8 +122,3 @@ not fronted anymore its full stack developer now andchange my skills part fronte
 
   <img src="https://komarev.com/ghpvc/?username=Muhatarima&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
-
-
-
-
-edit profile readme
